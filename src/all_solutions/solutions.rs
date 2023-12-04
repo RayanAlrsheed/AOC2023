@@ -8,3 +8,4 @@ pub trait Solvable {
 
 }
 
+pub struct Solution();
